@@ -1,0 +1,9 @@
+*/dist/
+*/server-bundle/
+*/node_modules/
+*/build/
+*/npm-debug.log*
+
+.vscode/
+.idea/
+
